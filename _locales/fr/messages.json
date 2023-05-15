@@ -1,0 +1,14 @@
+{
+	"findImage": {
+		"message": "Effectuez une recherche sur Yandex avec cette image."
+	},
+	"name": {
+		"message": "Recherche d'image sur Yandex"
+	},
+	"short": {
+		"message": "Recherche d'images"
+	},
+	"description": {
+		"message": "Trouver des images similaires à l'image sélectionnée sur Yandex."
+	}
+}
